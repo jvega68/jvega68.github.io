@@ -1,7 +1,6 @@
 ---
 layout: home
 title: Acerca de mi
-permalink: /aboutme/
 ---
 <div id ="home">
 <center><img src="images/me.webp" width ="200"/></center>
