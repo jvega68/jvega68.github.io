@@ -4,9 +4,9 @@
 layout: home
 ---
 
-<center><b> Profesor de Medio Tiempo en el Departamento de Estadística </b></center>
+<center><b> Profesor de Medio Tiempo en el Departamento de Estadística, ITAM</b></center>
 
-Contenido relevante. Fijarse en donde están ubicados estos cambios. Me gustaría agregar a esta página:
+Me gustaría agregar a esta página:
 
 - Proyectos en los que estoy participando.
 - Presentaciones
