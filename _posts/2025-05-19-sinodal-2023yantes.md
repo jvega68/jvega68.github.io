@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Revisión de tesis hasta 2023"
+date:   2025-05-19 14:41:47 -0600
+categories: tesis
+---
+
+# Tesis 2023
+
+- Yalidt Díaz Vázquez: _Detección de operaciones atípicas en la Cadena Hotelera City Express._ Estudio de Caso, Maestría de Ciencia de Datos (Noviembre 2023)
+- Jorge Enrique Mendez García: _Impacto de los Sistemas de Incentivos al Salario Docente en el Comportamiento del Personal Educativo en México._ Actuaría (10 Agosto 2023)
+- Luis Eduardo Sequira Gutiérrez: _Procesos de Hawkes y Sismología._ Licenciatura en Actuaría. (1 Diciembre 2023)
+- Francisco Gabriel Huerta Fernàndez: _Análisis Estadístico de Peleas de Artes Marciales Mixtas._ Matemàticas Aplicadas, ITAM (29 Junio 2023)
+- Mariana Brizuela Curiel: _Reestructuración Estadística de la Tipología Distrital de Complejidad Electoral._ Licenciatura en Matemáticas Aplicadas (2 Junio 2023)
+- Santiago Muriel Vizcaino: _Diseño, Construcción y Validación de un Modelo de Riesgo Credicticio._ Licenciatura en Matemáticas Aplicadas (16 febrero 2023)
+
+
+## Tesis 2022 y antes
+
+- Roberto Quirós Ruíz-Esparza: _Sensibilidad en la Incorporación de Incertidumbre: Estimación y Aversión al Riesgo de Markowitz._ Maestría en Administración de Riesgos. (8 julio 2022) **Director de Tesis**
+- Tonantzin Real Rojas: _Ensemble, Transformers and their Joint Application for Fake News Detection._ Matemáticas Aplicadas (mayo 2022)
+- Bernardo Alcántara Sedas: _Administración Cuantitativa de Portafolios de Inversión_ Matemáticas Aplicadas, ITAM (21 Abril 2022)
+- Mariana Graciela Martínez Aguilar: _Una Aplicación de Ondículas al Estudio de Estilos de Artistas Plásticos Mexicanos._ Matemáticas Aplicadas ITAM. (septiembre 2021) Actuaría, ITAM  (11 Diciembre 2020).
+- Emilio Akira Morones Ishikawa: _Actualización de `BGPHAZARD` con Modelos de Cura._ 
+- Nicole Domínguez Medina: _Construcción de Indicadores para Medir y Evaluar la Calidad de la Información en Compañías de Seguros._ Licenciatura en Actuaría. (2016).  **Director de tesis**
+- Juan Antonio Cornejo Nieto: _Reducción de Dimensión en Regresión_ Matemáticas, UNAM (2005). **Director de Tesis**
+- Guillermo Óscar Ruiz-Palacios Horcheck: _Métodos para la Estimación de Escalas Salariales Utilizadas para el Cálculo del Valor Presente Actuarial de las Obligaciones Futuras de una Empresa._ Actuaría y Matemáticas Aplicadas, ITAM (2004) **Director de Tesis**
+- Claudia Tapia Rangel: _Pronóstico para series de Tiempo con Modelos ARIMA_ Actuaría, UNAM. (1994) **Director de tesis**
+- Gabriela Martínez Fentanez: _La Expansión de Series de Edgeworth: Una Aplicación a la teoría de riesgo._ Actuaría, UNAM. (1995)
+- César Galindo Aranza: _Modelación de Sistemas de Linea de Espera._ Actuaría, UNAM. (1994)
+- Leticia Flores Vela: _Simulación y Cálculo de la Politica de Reemplazo óptima para un Proceso de Renovación._ Actuaría, UNAM. (1995)
